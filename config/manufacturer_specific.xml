@@ -1051,6 +1051,7 @@
     <Product config="inovelli/nzw39.xml" id="2700" name="NZW39 Smart Plug Dimmer (w/Scene)" type="2700"/>
     <Product config="inovelli/nzw96.xml" id="6000" name="NZW96 1-Channel Outdoor Smart Plug" type="6000"/>
     <Product config="inovelli/nzw97.xml" id="6100" name="NZW97 2-Channel Outdoor Smart Plug" type="6100"/>
+    <Product config="inovelli/eva_zw97.xml" id="c007" name="ZW97 EVA LOGIK 2-Channel Outdoor Smart Plug" type="c000"/>
   </Manufacturer>
   <Manufacturer id="031E" name="Inovelli">
     <Product type="0002" id="0001" name="LZW30-SN Switch Red Series" config="inovelli/lzw30-sn.xml"/>
